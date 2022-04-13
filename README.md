@@ -19,3 +19,9 @@ I still don't get it
 ## Title
 
 this is a new section
+
+## Local Development
+
+1. Open index.html in your browser
+
+Cool
